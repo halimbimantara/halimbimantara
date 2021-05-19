@@ -23,6 +23,7 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 - 🌱 I’m currently learning Kotlin Extensions and Android Library; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mhalimbimantara@gmail.com;
+- 3D Printer enthusiast
 - I Like Electrical engineering stuf Arduino,Raspberry Pi,STM32 
 - Im Linuxer
 
