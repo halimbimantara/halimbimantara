@@ -51,3 +51,4 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=halimbimantara&show_icons=true&theme=gotham" alt="comradex45" />
 </details>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=halimbimantara&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
