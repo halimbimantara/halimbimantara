@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hy C0mr4d3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://linkedin.com/in/halim-bimantara-396b29106/">
   <img align="left" alt="Halim's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -45,13 +45,13 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 <code><img height="20" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></code>
 
- <br />
-<a href="https://github-readme-streak-stats.herokuapp.com?user=halimbimantara&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" target="_blank"></a>
+
 
 <details>
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=halimbimantara&show_icons=true&theme=gotham" alt="comradex45" />
-
-  </details>
+  <p></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=halimbimantara&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/></p>
+</details>
  
  
