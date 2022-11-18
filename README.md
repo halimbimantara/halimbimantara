@@ -50,7 +50,8 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 <details>
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=halimbimantara&show_icons=true&theme=gotham" alt="comradex45" />
-</details>
-  <br />
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=halimbimantara&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact&date_format=j%20M%5B%20Y%5D" target="_blank"></a>
+ <br />
+<a href="https://github-readme-streak-stats.herokuapp.com?user=halimbimantara&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" target="_blank"></a>
+  </details>
+ 
  
