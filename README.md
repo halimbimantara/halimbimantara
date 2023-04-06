@@ -20,7 +20,7 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 <img align="right" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning Kotlin Extensions and Android Library; 
+- 🌱 I’m currently learning Kotlin Compose Multiplatform and Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mhalimbimantara@gmail.com;
 - 3D Printer enthusiast
