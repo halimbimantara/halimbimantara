@@ -1,15 +1,15 @@
 ### Hy C0mr4d3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/halimbimantara/">
-  <img align="left" alt="Halim's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/linkedin.svg" />
+  <img align="left" alt="Halim's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/halimjsn/">
-  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/makerpoy/">
-  <img align="left" alt="Halim's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
+  <img align="left" alt="Halim's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/medium.svg" />
 </a>
 <a href="mailto:mhalimbimantara@gmail.com">
-  <img align="left" alt="Halim's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+  <img align="left" alt="Halim's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/gmail.svg" />
 </a>
 
 <br />
