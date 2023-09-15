@@ -35,10 +35,10 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 <code><img height="20" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=flutter&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=arduino&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=godot&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></code>
