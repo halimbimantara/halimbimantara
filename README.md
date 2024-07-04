@@ -20,7 +20,8 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 <img align="right" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning Kotlin Compose Multiplatform and Flutter; 
+- 🌱 I'm currently working using Kotlin Compose Multiplatform and Flutter;
+-  Currently I am developing POS software with React, Bun & Containerization technology 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mhalimbimantara@gmail.com;
 - 3D Printer enthusiast
