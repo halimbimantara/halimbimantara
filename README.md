@@ -30,7 +30,7 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 - 3D Printer enthusiast
 - I Like Electrical engineering stuf Arduino,Raspberry Pi,STM32 
 - Im Linuxer
-- I like game development, now I'm Learn GameMaker as My New JOB <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png"> to make 2D games 
+- I like game development
 
 **Languages and Tools:**  
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png">
