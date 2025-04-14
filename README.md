@@ -54,7 +54,6 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 
 <details>
 <summary>📈 My GitHub Stats</summary>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=halimbimantara&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </details>
- 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=halimbimantara&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  
