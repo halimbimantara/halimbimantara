@@ -55,5 +55,4 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 <details>
 <summary>📈 My GitHub Stats</summary>
 </details>
- [![GitHub Streak](https://streak-stats.demolab.com?user=halimbimantara&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=halimbimantara&theme=tokyonight&hide_border=true&type=png)](https://git.io/streak-stats) 
