@@ -24,7 +24,8 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 
 **Talking about Personal Stuffs:**
 - 🌱 I'm currently working using Kotlin Compose Multiplatform and Flutter;
--  Currently I am developing POS software with React, Bun & Containerization technology 
+-  Currently I am developing POS software with React, Bun & Containerization technology
+-  Now Im Exploring Reinforcement Larning for Robotic using Mujoco,Stable-baselines3 etc 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mhalimbimantara@gmail.com;
 - 3D Printer enthusiast
@@ -54,6 +55,7 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 * ![Hono](https://img.shields.io/badge/Hono-javascript-blue?logo=hono)
 * ![Figma](https://img.shields.io/badge/figma-blue?logo=figma)
 * ![Mysql](https://img.shields.io/badge/dbeaver-white?logo=mysql)
+* ![Portainer](https://img.shields.io/badge/docker-portainer-white?logo=portainer)
 
 ---
 
