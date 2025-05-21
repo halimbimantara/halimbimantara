@@ -32,13 +32,7 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 - Im Linuxer
 - I like game development
 
-Here's your **Languages and Tools** section formatted as a clean list:
 
----
-
-Here’s your updated **Languages and Tools** list with **Bun**, **Midtrans**, and **Hono** added:
-
----
 
 ### **Languages and Tools:**
 
