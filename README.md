@@ -56,8 +56,8 @@ Here’s your updated **Languages and Tools** list with **Bun**, **Midtrans**, a
 * ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=Jira\&logoColor=white) 
 * ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white) 
 * ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white) 
-* ![Bun](https://img.shields.io/badge/logo-javascript-blue?logo=bun) 
-* ![Hono](https://img.shields.io/badge/logo-javascript-blue?logo=hono)
+* ![Bun](https://img.shields.io/badge/BunJs-javascript-blue?logo=bun) 
+* ![Hono](https://img.shields.io/badge/Hono-javascript-blue?logo=hono)
 * ![Figma](https://img.shields.io/badge/figma-blue?logo=figma)
 * ![Mysql](https://img.shields.io/badge/dbeaver-white?logo=mysql)
 
