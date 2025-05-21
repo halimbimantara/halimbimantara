@@ -42,26 +42,26 @@ Here’s your updated **Languages and Tools** list with **Bun**, **Midtrans**, a
 
 ### **Languages and Tools:**
 
-* ![Android](https://img.shields.io/badge/android-white?logo=android-studio) **Android**
-* ![Kotlin](https://img.shields.io/badge/kotlin-white?logo=kotlin) **Kotlin**
-* ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?\&style=for-the-badge\&logo=Apollo%20GraphQL\&logoColor=white) **Apollo GraphQL**
-* ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black) **Firebase**
-* ![Git](https://img.shields.io/badge/git-versioning-blue?logo=git) **Git**
-* ![Flutter](https://img.shields.io/badge/Flutter-1071D3?style=for-the-badge\&logo=flutter\&logoColor=white) **Flutter**
-* ![Arduino](https://img.shields.io/badge/Arduino-1071D3?style=for-the-badge\&logo=arduino\&logoColor=white) **Arduino**
-* ![Java](https://img.shields.io/badge/Java-1071D3?style=for-the-badge\&logo=java\&logoColor=white) **Java**
-* ![Godot](https://img.shields.io/badge/Godot-1071D3?style=for-the-badge\&logo=godot\&logoColor=white) **Godot**
-* ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge\&logo=joplin\&logoColor=white) **Joplin**
-* ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge\&logo=Insomnia\&logoColor=white) **Insomnia**
-* ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=Jira\&logoColor=white) **Jira**
-* ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white) **Visual Studio Code**
-* ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white) **Laravel**
-* ![Bun](https://img.shields.io/badge/logo-javascript-blue?logo=bun) **Bun.js**
-* ![Hono](https://img.shields.io/badge/logo-javascript-blue?logo=hono) **Hono**
+* ![Android](https://img.shields.io/badge/android-white?logo=android-studio)
+* ![Kotlin](https://img.shields.io/badge/kotlin-white?logo=kotlin) 
+* ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?\&style=for-the-badge\&logo=Apollo%20GraphQL\&logoColor=white)
+* ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black)
+* ![Git](https://img.shields.io/badge/git-versioning-blue?logo=git) 
+* ![Flutter](https://img.shields.io/badge/Flutter-1071D3?style=for-the-badge\&logo=flutter\&logoColor=white)
+* ![Arduino](https://img.shields.io/badge/Arduino-1071D3?style=for-the-badge\&logo=arduino\&logoColor=white) 
+* ![Java](https://img.shields.io/badge/Java-1071D3?style=for-the-badge\&logo=java\&logoColor=white) 
+* ![Godot](https://img.shields.io/badge/Godot-1071D3?style=for-the-badge\&logo=godot\&logoColor=white)
+* ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge\&logo=joplin\&logoColor=white) 
+* ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge\&logo=Insomnia\&logoColor=white) 
+* ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=Jira\&logoColor=white) 
+* ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white) 
+* ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white) 
+* ![Bun](https://img.shields.io/badge/logo-javascript-blue?logo=bun) 
+* ![Hono](https://img.shields.io/badge/logo-javascript-blue?logo=hono)
+* ![Figma](https://img.shields.io/badge/figma-blue?logo=figma)
+* ![Mysql]https://img.shields.io/badge/dbeaver-white?logo=mysql
 
 ---
-
-
 
 <details>
 <summary>📈 My GitHub Stats</summary>
