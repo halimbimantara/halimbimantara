@@ -46,7 +46,7 @@ Here’s your updated **Languages and Tools** list with **Bun**, **Midtrans**, a
 * ![Kotlin](https://img.shields.io/badge/kotlin-white?logo=kotlin) **Kotlin**
 * ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?\&style=for-the-badge\&logo=Apollo%20GraphQL\&logoColor=white) **Apollo GraphQL**
 * ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black) **Firebase**
-* ![Git]([https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png](https://img.shields.io/badge/logo-javascript-blue?logo=git)) **Git**
+* ![Git](https://img.shields.io/badge/logo-javascript-blue?logo=git) **Git**
 * ![Flutter](https://img.shields.io/badge/Flutter-1071D3?style=for-the-badge\&logo=flutter\&logoColor=white) **Flutter**
 * ![Arduino](https://img.shields.io/badge/Arduino-1071D3?style=for-the-badge\&logo=arduino\&logoColor=white) **Arduino**
 * ![Java](https://img.shields.io/badge/Java-1071D3?style=for-the-badge\&logo=java\&logoColor=white) **Java**
