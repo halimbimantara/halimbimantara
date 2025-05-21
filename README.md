@@ -59,7 +59,7 @@ Here’s your updated **Languages and Tools** list with **Bun**, **Midtrans**, a
 * ![Bun](https://img.shields.io/badge/logo-javascript-blue?logo=bun) 
 * ![Hono](https://img.shields.io/badge/logo-javascript-blue?logo=hono)
 * ![Figma](https://img.shields.io/badge/figma-blue?logo=figma)
-* ![Mysql]https://img.shields.io/badge/dbeaver-white?logo=mysql
+* ![Mysql](https://img.shields.io/badge/dbeaver-white?logo=mysql)
 
 ---
 
