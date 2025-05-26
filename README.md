@@ -1,6 +1,6 @@
 ### Hy C0mr4d3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/halimbimantara/">
-  <img align="left" alt="Halim's LinkdeIN" width="126px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" fill="#ffff"/>
+  <img align="left" alt="Halim's LinkdeIN" width="126px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" fill="#0000"/>
 </a>
 <a href="https://www.instagram.com/halimjsn/">
   <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/instagram.svg" />
@@ -12,8 +12,6 @@
   <img align="left" alt="Halim's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/gmail.svg" />
 </a>
 
-<br />
-<br />
 <br />
 Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</a>, a Android Developer 🚀 from Kediri, East Java, Indonesia. Now I Live in Bandung West java
 
