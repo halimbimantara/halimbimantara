@@ -1,17 +1,16 @@
 ### Hy C0mr4d3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/halimbimantara/">
-  <img align="left" alt="Halim's LinkdeIN" width="126px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" fill="#FFFFF"/>
+  <img align="left" alt="Halim's LinkedIn" width="126px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" style="filter: brightness(0) invert(1);" />
 </a>
 <a href="https://www.instagram.com/halimjsn/">
-  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/instagram.svg" />
+  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/instagram.svg" style="filter: brightness(0) invert(1);" />
 </a>
 <a href="https://medium.com/makerpoy/">
-  <img align="left" alt="Halim's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/medium.svg" />
+  <img align="left" alt="Halim's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/medium.svg" style="filter: brightness(0) invert(1);" />
 </a>
 <a href="mailto:mhalimbimantara@gmail.com">
-  <img align="left" alt="Halim's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/gmail.svg" />
+  <img align="left" alt="Halim's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/gmail.svg" style="filter: brightness(0) invert(1);" />
 </a>
-
 <br />
 Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</a>, a Fullstack Developer 🚀 from Kediri, East Java, Indonesia. Now I Live in Bandung West java
 
