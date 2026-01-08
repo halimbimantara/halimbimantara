@@ -12,7 +12,7 @@
   <img align="left" alt="Halim's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/gmail.svg" style="filter: brightness(0) invert(1);" />
 </a>
 <br />
-Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</a>, a Fullstack Developer 🚀 from Kediri, East Java, Indonesia. Now I Live in Bandung West java
+Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Halim Bimantara</a>, a Fullstack Developer 🚀 from Kediri, East Java, Indonesia. Now I Live in Bandung West java
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
@@ -22,7 +22,7 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Comradex45</
 **Talking about Personal Stuffs:**
 - 🌱 I'm currently working using Kotlin Compose Multiplatform and Flutter;
 -  Currently I am developing POS software with React, Bun & Containerization technology
--  Now Im Exploring Reinforcement Larning for Robotic using Mujoco,Stable-baselines3 etc 
+-  Now Im Exploring AI & DevOPS 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mhalimbimantara@gmail.com;
 - 3D Printer enthusiast
