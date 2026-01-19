@@ -31,7 +31,7 @@ Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Halim Bimant
 - I like game development
 
 ### My Porto
-<a href="https://halimbimantara.github.io/](https://halim-porto.vercel.app/" target="_blank">Check this out</a>
+<a href="https://halim-porto.vercel.app/" target="_blank">Check this out</a>
 
 ### **Languages and Tools:**
 
