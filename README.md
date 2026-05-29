@@ -14,9 +14,6 @@
 <br />
 Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Halim Bimantara</a>, a Fullstack Developer 🚀 from Kediri, East Java, Indonesia. Now I Live in Bandung West java
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-</p>
 #<img align="right" alt="GIF" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
