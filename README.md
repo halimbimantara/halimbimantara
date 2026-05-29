@@ -13,7 +13,7 @@
 </a>
 <br />
 Hi, I'm <a href="https://halimbimantara.github.io/" target="_blank">Halim Bimantara</a>, a Fullstack Developer 🚀 from Kediri, East Java, Indonesia. Now I Live in Bandung West java
-
+<p></p>
 #<img align="right" alt="GIF" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
